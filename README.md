@@ -1,18 +1,20 @@
 <div align="center">
 
+<img src="https://readme-visitor-badge.glitch.me/badge?page=shreyashrutha&label=Profile%20Visits&style=flat&color=blue" />
+
 # Hi 👋, I'm Shreya Shrutha
 
-SDE @ Schneider Electric | Full Stack Developer | SJCE CSE'25
+AI/ML Intern @ InternPe | Aspiring Data Scientist | SJCE CSE'26 [JSSSTU]
 
-**Always Open**
+<img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration-%F0%9F%A4%9D-blue?style=for-the-badge" />
 
 ---
 
 ## About Me
 
-I'm currently learning MERN Stack Development & Large Language Models (LLMs).<br>
-I'm open to collaborating on interesting projects related to Generative AI.<br>
-Feel free to reach out at <b>shreyashrutha@gmail.com</b>
+🔭 I'm currently learning MERN Stack Development & Large Language Models (LLMs).<br>
+🤝 I'm open to collaborating on interesting projects related to Generative AI.<br>
+📫 Reach me at <b>shreyashrutha@gmail.com</b>
 
 ---
 
@@ -33,13 +35,13 @@ Feel free to reach out at <b>shreyashrutha@gmail.com</b>
 ## Connect with Me
 
 <a href="https://in/shreya-shrutha-m-a9a42a258">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
 <a href="https://x.com/ShreyaShrutha">
-  <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge" />
 </a>
 <a href="https://www.instagram.com/shreyashrutha/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
 </a>
 
 ---
