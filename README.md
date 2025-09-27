@@ -1,64 +1,42 @@
-<div align="center">
-
-<img src="https://readme-visitor-badge.glitch.me/badge?page=shreyashrutha&label=Profile%20Visits&style=flat&color=blue" />
-
-# Hi 👋, I'm Shreya Shrutha
-
-AI/ML Intern @ InternPe | Aspiring Data Scientist | SJCE CSE'26 [JSSSTU]
-
-<img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration-%F0%9F%A4%9D-blue?style=for-the-badge" />
-<!-- Profile Views Badge (optional, can use shields.io) -->
+<h1 align="center">👋 Hi, I'm Shreya Shrutha M</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  CS Student @ SJCE Mysuru | Aspiring Data Scientist | 7th Semester | ML & Competitive Programming
 </p>
 
-<!-- Tagline -->
-<p align="center"><strong><span style="color:#218eb4;font-size:1.5em;">Tech Enthusiast</span></strong></p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration-blue" alt="Open to collaboration"/></a>
+</p>
 
-<hr>
 ---
 
 ## About Me
 
-🔭 I'm currently learning MERN Stack Development & Large Language Models (LLMs).<br>
-🤝 I'm open to collaborating on interesting projects related to Generative AI.<br>
-📫 Reach me at <b>shreyashrutha@gmail.com</b>
+- ⚡ Currently working on Machine Learning and Data Science projects.
+- 💻 Focused on Competitive Programming and technical interview prep.
+- 👨‍💻 Exploring advanced data visualization and algorithm optimization.
+- 📨 Reach me at [your-email@email.com]
 
 ---
 
 ## Technologies I've Worked With
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-blue?logo=cpp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>
+</p>
 
 ---
 
 ## Connect with Me
 
-<a href="https://in/shreya-shrutha-m-a9a42a258">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-</a>
-<a href="https://x.com/ShreyaShrutha">
-  <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge" />
-</a>
-<a href="https://www.instagram.com/shreyashrutha/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-</a>
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreyashrutha&show_icons=true&theme=radical" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashrutha&layout=compact&hide=html" /><br>
-
----
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/your-instagram-id"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white"/></a>
+</p>
