@@ -41,7 +41,7 @@
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40"/>
-    <<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40"/>
   </p>
 
 </div>
