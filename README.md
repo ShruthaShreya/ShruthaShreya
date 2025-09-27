@@ -32,3 +32,25 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo
+---
+<div align="center">
+
+  ### 📬 Contact Me
+  
+  <a href="mailto:shreyashrutha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shreyashrutha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ShruthaShreya">
+    <img src="https://img.shields.io/badge/GitHub-ShruthaShreya-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shreya-shrutha-m-a9a42a258">
+    <img src="https://img.shields.io/badge/LinkedIn-shreya--shrutha--m--a9a42a258-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shreyashrutha">
+    <img src="https://img.shields.io/badge/Instagram-shreyashrutha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/ShreyaShrutha">
+    <img src="https://img.shields.io/badge/Twitter-@ShreyaShrutha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</div>
+
