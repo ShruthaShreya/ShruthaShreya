@@ -56,7 +56,7 @@
     <i>Full-stack DBMS with Node.js, Express.js, MongoDB</i><br><br>
     <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="32"/> <b>LeetCode Pathfinder</b><br>
     <i>ML recommender for LeetCode problems (Python & Flask)</i><br><br>
-    <img src="https://cdn-icons-png.flaticon.com/512/6522/6522516.png" alt="AI" width="40"/> <b>Context-Aware Hate Speech Classifier</b><br>
+    <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" alt="Speech" width="40"/> <b>Context-Aware Hate Speech Classifier</b><br>
     <i>NLP-based ML application using GloVe, Logistic Regression, Random Forest, and LSTM models</i>
   </p>
   
