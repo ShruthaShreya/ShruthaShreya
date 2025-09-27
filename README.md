@@ -48,13 +48,10 @@
   <p>
     <b>🏏 IPL Winning Team Prediction</b> <br>
     <i>ML-based predictor using player & match statistics</i><br><br>
-
     <b>🛒 Online Retail Store Database</b> <br>
     <i>Full-stack DBMS with Node.js, Express.js, MongoDB</i><br><br>
-
     <b>💡 LeetCode Pathfinder</b> <br>
     <i>ML recommender for LeetCode problems (Python & Flask)</i><br><br>
-
     <b>🛡️ Context-Aware Hate Speech Classifier</b> <br>
     <i>NLP-based ML application using GloVe, Logistic Regression, Random Forest, and LSTM models</i>
   </p>
