@@ -7,7 +7,15 @@
 AI/ML Intern @ InternPe | Aspiring Data Scientist | SJCE CSE'26 [JSSSTU]
 
 <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration-%F0%9F%A4%9D-blue?style=for-the-badge" />
+<!-- Profile Views Badge (optional, can use shields.io) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadhussain01306&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+<!-- Tagline -->
+<p align="center"><strong><span style="color:#218eb4;font-size:1.5em;">Tech Enthusiast</span></strong></p>
+
+<hr>
 ---
 
 ## About Me
