@@ -62,23 +62,22 @@
   
   <hr style="border-top: 1px solid #bbb;">
 
-  <h2>📬 Contact Me</h2>
-  <p>
-    <a href="mailto:shreyashrutha@gmail.com">
-      <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40"/>
-    </a>
-    <a href="https://github.com/ShruthaShreya">
-      <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40"/>
-    </a>
-    <a href="https://www.linkedin.com/in/shreya-shrutha-m-a9a42a258">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-    </a>
-    <a href="https://www.instagram.com/shreyashrutha">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40"/>
-    </a>
-    <a href="https://twitter.com/ShreyaShrutha">
-      <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="Twitter" width="40"/>
-    </a>
-  </p>
+ <h2 align="center">📬 Contact Me</h2>
+<p align="center">
+  <a href="mailto:shreyashrutha@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40"/>
+  </a>
+  <a href="https://github.com/ShruthaShreya">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shreya-shrutha-m-a9a42a258">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/shreyashrutha">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40"/>
+  </a>
+  <a href="https://twitter.com/ShreyaShrutha">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/x-logo.png" alt="X" width="40"/>
+  </a>
+</p>
 
-</div>
