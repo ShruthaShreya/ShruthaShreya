@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=1F8ACB&center=true&multiline=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreya+Shrutha!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=800&color=1F8ACB&center=true&multiline=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shreya+Shrutha+M!" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/AI%2FML%20Intern%20%40%20InternPe-blue?style=for-the-badge"/>
@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40"/>
   </a>
   <a href="https://twitter.com/ShreyaShrutha">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" width="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/X_logo_2023_original.svg" alt="X" width="40"/>
+</a>
 </p>
 
