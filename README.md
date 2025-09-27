@@ -9,8 +9,7 @@
   </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration-323232?style=for-the-badge" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828641.png" alt="handshake" width="32"/>
+  <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration%20🤝-323232?style=for-the-badge" />
 </div>
   
   <hr style="border-top: 1px solid #bbb;">
