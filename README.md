@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40"/>
   </a>
   <a href="https://twitter.com/ShreyaShrutha">
-    <img src="https://img.icons8.com/ios-glyphs/60/000000/x-logo.png" alt="X" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" width="40"/>
   </a>
 </p>
 
