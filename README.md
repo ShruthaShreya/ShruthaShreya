@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shreya Shrutha
 
-SDE @ YourCompany | CS Student | SJCE CSE'25
+AI/ML Intern @InternPe | CS Student | SJCE CSE'26
 
 **Always Open**
 
