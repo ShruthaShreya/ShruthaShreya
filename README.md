@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/SJCE%20CSE'26%20[JSSSTU]-1976d2?style=for-the-badge"/>
   </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration%20🤝🏿-fbc02d?style=for-the-badge" /> 
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration%20🤝🏿-fbc02d?style=for-the-badge" />
+</div>
   
   <hr style="border-top: 1px solid #bbb;">
 
