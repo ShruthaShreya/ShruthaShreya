@@ -9,7 +9,7 @@
   </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration%20🤝🏻-fbc02d?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Always%20Open%20to%20Collaboration%20🤝🏿-fbc02d?style=for-the-badge" /> 
 </p>
   
   <hr style="border-top: 1px solid #bbb;">
